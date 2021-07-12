@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../mutant-app/.idea/mutant-app.iml" filepath="$PROJECT_DIR$/../mutant-app/.idea/mutant-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../mutant-handler/.idea/mutant-handler.iml" filepath="$PROJECT_DIR$/../mutant-handler/.idea/mutant-handler.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/mutant-statistics.iml" filepath="$PROJECT_DIR$/.idea/mutant-statistics.iml" />
     </modules>
   </component>
